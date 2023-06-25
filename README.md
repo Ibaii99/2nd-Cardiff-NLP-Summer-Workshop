@@ -46,3 +46,4 @@ And more tasks …
 
 Please contact us for collaborations, suggestion or questions at: ibai.guillen@upm.es
 
+**_NOTE:_** This document will be updated as progress is made, so stay tuned. The publication, the resources created, the endpoint, the ontology, the knowledge graph, the models generated on it, etc. will be referenced in this document.
