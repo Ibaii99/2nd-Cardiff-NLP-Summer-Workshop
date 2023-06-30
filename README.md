@@ -16,6 +16,9 @@ We build an ontology in which the speeches produced by the same organisation in 
 
 It allow different organisations to coexist and be recognised. Both in the speeches they produce and in those in which they are mentioned, quoted or referenced. In addition, it allow the speeches to be divided by themes and by time.
 
+## 🗣️ Presented Poster at 2nd Cardiff NLP Summer Workshop
+📄[Click here to see the poster](https://github.com/Ibaii99/2nd-Cardiff-NLP-Summer-Workshop/blob/main/POSTER_CARDIFF_IBAI.pdf)
+
 ## 🔜Future work
 
 We defined several tasks that could be carried out as future work with our infrastructure:
@@ -46,4 +49,4 @@ And more tasks …
 
 Please contact us for collaborations, suggestion or questions at: ibai.guillen@upm.es
 
-**_NOTE:_** This document will be updated as progress is made, so stay tuned. The publication, the resources created, the endpoint, the ontology, the knowledge graph, the models generated on it, etc. will be referenced in this document. Once the poster has been presented, it will also appear here.
+**_NOTE:_** This document will be updated as progress is made, so stay tuned. The publication, the resources created, the endpoint, the ontology, the knowledge graph, the models generated on it, etc. will be referenced in this document.
